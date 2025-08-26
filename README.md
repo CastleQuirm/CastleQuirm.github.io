@@ -26,6 +26,9 @@ This app is built to allow play of Earthborne Rangers without having to reconstr
   - Whispering Fields (face-down attached cards)
   - Spire (seperate Spire deck)
   - Alluvial Ruins (seperate Detritus deck)
+  - Archaelogical Outpost (always includes Arcology Sinkhole from The Valley set)
+  - Bowl of the Sun (always includes The Fundamentalist from The Valley set)
+  - Headwater Station (don't include cards from The Valley set)
   - The Philosopher's Garden (single card set face-down on arrival)
     - For this location, other cards will be turned face down but that is the user's responsibility to handle, using physical cards, since randomisation is not required or desired.
 - Missions
