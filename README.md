@@ -16,9 +16,12 @@ This app is built to allow play of Earthborne Rangers without having to reconstr
   - It's a conscious choice to not restrict based on actual available paths, in case of things I haven't seen and general ease of use.
 - Scouting
 - Setting aside cards
+- Moments on the Path (for The Valley only)
 
 
 ## Partially Supported
+- Easier travel choices (pick a path and destination on the map, centered on where you were last!)
+  - I might try to polish this to make it more obvious what it's doing/why.
 - Reshuffling an empty deck.
   - Reshuffling works for the Challenge Deck as expected
   - Reshuffling is attempted for the Path Deck if emptied, but this assumes the same make-up as before i.e. no cards still in play/set-aside. 
@@ -34,10 +37,11 @@ This app is built to allow play of Earthborne Rangers without having to reconstr
 - Missions
   - Secret Invasion needed special handling and is supported
   - Other missions that I'm aware of can mostly be handled by existing function, but not always nicely
-- "Search for Next" is supported by the "Look at next card"/"keep and reshuffle" function but it's horrible.
+- Search for Next \[given trait\] is supported for things I know might be relevant.
+  - Anything not appearing in the list...won't work at the moment.
+  - Previously supported by the "Look at next card"/"keep and reshuffle" function which is general but it was horrible.
 
   
 ## Unsupported
 - Player cards (that is expected to be fully managed by the player)
-- The expansions (Moments on the Path, Legacacy of the Ancestors)
-- Easier travel choices (pick a path and destination on the map, centered on where you were last!)
+- The expansions (Legacacy of the Ancestors, Moments on the Path for the Arcology)
